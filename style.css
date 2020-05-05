@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: helvetica neue,Arial;
+}
+h1{
+    color: #2f203c;
+    font-family: serif;
+    font-size: 38px;
+    margin-bottom: 17px;
+}
+h3{
+    color:rgba(31, 4, 93, 0.9);
+    margin-bottom: 8px;
+}
+.link2{
+    color: rgba(6, 1, 137, 0.63);
+    font-size: 20px;
+    padding-left: 30px;
+}
+.link1{
+    color: rgba(6, 1, 137, 0.63);
+    font-size: 20px;
+}
+
+.container {
+    width: 1140px;
+    margin: 15px auto 0 auto;
+}
+
+.main-text {
+    width: 75%;
+    float: left; 
+    position: relative;
+}
+
+.contact {
+    width: 25%;
+    float: right;
+}
+.contact img{
+    border-radius: 120%;
+}
+.first {
+    text-align: justify;
+}
+
+.date {
+    position: absolute;
+    top: 60px;
+    right:10px;
+}
